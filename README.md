@@ -1,1 +1,1 @@
-# Organização de Computadores I
+# Organização de Computadores I (CCF 252)
